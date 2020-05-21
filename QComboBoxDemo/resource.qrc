@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/Button-512.png</file>
+        <file>img/close_button_2-512.png</file>
+        <file>img/open-file-icon.png</file>
+    </qresource>
+</RCC>

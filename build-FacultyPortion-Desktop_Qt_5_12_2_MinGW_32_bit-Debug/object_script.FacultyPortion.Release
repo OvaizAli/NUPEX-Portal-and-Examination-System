@@ -1,0 +1,11 @@
+release/main.o
+release/facultyportion.o
+release/updateattendance.o
+release/updatemarks.o
+release/viewattendance.o
+release/viewmarks.o
+release/moc_facultyportion.o
+release/moc_updateattendance.o
+release/moc_updatemarks.o
+release/moc_viewattendance.o
+release/moc_viewmarks.o

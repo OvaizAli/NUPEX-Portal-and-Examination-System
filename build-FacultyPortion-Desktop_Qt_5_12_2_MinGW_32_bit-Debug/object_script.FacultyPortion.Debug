@@ -1,0 +1,11 @@
+debug/main.o
+debug/facultyportion.o
+debug/updateattendance.o
+debug/updatemarks.o
+debug/viewattendance.o
+debug/viewmarks.o
+debug/moc_facultyportion.o
+debug/moc_updateattendance.o
+debug/moc_updatemarks.o
+debug/moc_viewattendance.o
+debug/moc_viewmarks.o
