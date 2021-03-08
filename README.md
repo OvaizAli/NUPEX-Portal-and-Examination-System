@@ -1,2 +1,3 @@
 # NUPEX-Portal-and-Examination-System
-This is my object oriented programming project which is a portal for students, faculty and admin, it also manages examination system of all the departments.
+NUPEX (National University Portal and Examination System) is my Object Oriented Programming (OOP) course project which was developed to facilitate students, faculty members and admins to manage their portals and view/edit relevant details accordingly.
+[ C++, Qt Creator, SQLite ]
